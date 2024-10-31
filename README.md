@@ -209,7 +209,7 @@ This code implements the core functionality of the AI music generator, capturing
 1. **Lofi chill beats, bollywood style, rains**
 2. **techno style, high bpm, sound drop**
 
-![Alt Text](images/my-image.png)
+![Alt Text](images/ss.png.png)
 
 
 ## Conclusion
